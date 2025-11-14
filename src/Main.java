@@ -9,6 +9,7 @@ public class Main extends JFrame{
     private JTextField textField2;
     private JTextField textField3;
     private JComboBox comboBox1;
+    private JTextField textField4;
 
     public Main() {
         setTitle("Application Form");
